@@ -1,0 +1,3 @@
+# Data Structures and Algorithms
+
+Welcome! This is a collection of my solutions to common coding challenges. You'll find most of these challenges on sites like LeetCode and CodeWars, to name a few. These are not necessarily the best solutions, but they are my best attempt. As I become a more seasoned developer, I'll probably update some of these to make then faster or more readable. Thanks for visiting and feel free to make any suggestions.
