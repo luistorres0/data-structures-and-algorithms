@@ -19,8 +19,5 @@ tree.insert(20);
 tree.insert(170);
 tree.insert(15);
 tree.insert(1);
-tree.insert(18);
 
-tree.remove(9);
-
-console.log(JSON.stringify(traverse(tree.root)));
+console.log(tree.breadthFirstSearch());
